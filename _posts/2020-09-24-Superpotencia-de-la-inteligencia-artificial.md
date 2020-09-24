@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi primer articulo!
+title: Superpontencia de la inteligencia artificial!
 ---
 
 **Hello world**, this is my first Jekyll blog post.
